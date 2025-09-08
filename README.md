@@ -1,2 +1,2 @@
 # HarshitaHegde
-Breast cancer Prediction using Computational Algotithm
+Breast cancer Prediction using Computational Algorithm
